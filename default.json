@@ -1,7 +1,7 @@
 {
     "name": "vless+tls+h2+reality",
-    "email":"sajjaddg",
+    "email":"alisa",
     "port": 8000,
-    "sni": "yahoo.com",
+    "sni": "yandex.com",
     "path": "%2F"
 }
