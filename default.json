@@ -1,7 +1,7 @@
 {
     "name": "vless+tls+h2+reality",
     "email":"alisa",
-    "port": 48008,
+    "port": 48085,
     "sni": "www.speedtest.net",
     "path": "%2F"
 }
